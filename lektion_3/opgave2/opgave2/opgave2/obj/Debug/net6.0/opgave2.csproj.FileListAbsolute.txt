@@ -1,0 +1,15 @@
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\obj\Debug\net6.0\opgave2.csproj.AssemblyReference.cache
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\obj\Debug\net6.0\opgave2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\obj\Debug\net6.0\opgave2.AssemblyInfoInputs.cache
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\obj\Debug\net6.0\opgave2.AssemblyInfo.cs
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\obj\Debug\net6.0\opgave2.csproj.CoreCompileInputs.cache
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\bin\Debug\net6.0\opgave2.exe
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\bin\Debug\net6.0\opgave2.deps.json
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\bin\Debug\net6.0\opgave2.runtimeconfig.json
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\bin\Debug\net6.0\opgave2.dll
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\bin\Debug\net6.0\opgave2.pdb
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\obj\Debug\net6.0\opgave2.dll
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\obj\Debug\net6.0\refint\opgave2.dll
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\obj\Debug\net6.0\opgave2.pdb
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\obj\Debug\net6.0\opgave2.genruntimeconfig.cache
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave2\opgave2\opgave2\obj\Debug\net6.0\ref\opgave2.dll

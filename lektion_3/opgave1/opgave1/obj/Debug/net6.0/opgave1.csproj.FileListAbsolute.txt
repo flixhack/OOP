@@ -1,0 +1,15 @@
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\bin\Debug\net6.0\opgave1.exe
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\bin\Debug\net6.0\opgave1.deps.json
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\bin\Debug\net6.0\opgave1.runtimeconfig.json
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\bin\Debug\net6.0\opgave1.dll
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\bin\Debug\net6.0\opgave1.pdb
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\obj\Debug\net6.0\opgave1.csproj.AssemblyReference.cache
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\obj\Debug\net6.0\opgave1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\obj\Debug\net6.0\opgave1.AssemblyInfoInputs.cache
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\obj\Debug\net6.0\opgave1.AssemblyInfo.cs
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\obj\Debug\net6.0\opgave1.csproj.CoreCompileInputs.cache
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\obj\Debug\net6.0\opgave1.dll
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\obj\Debug\net6.0\refint\opgave1.dll
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\obj\Debug\net6.0\opgave1.pdb
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\obj\Debug\net6.0\opgave1.genruntimeconfig.cache
+C:\Users\Pætur Magnussen\OneDrive - Aalborg Universitet\AAU\3_semester\OOP\lektion_3\opgave1\opgave1\obj\Debug\net6.0\ref\opgave1.dll
